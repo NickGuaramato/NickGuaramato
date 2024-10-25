@@ -18,4 +18,4 @@ Idiomas: Español (Nativo) e Inglés (Intermedio)
 
 ## 💻 Teconologías y lenguajes: 
 
-[![My Skills](https://skillicons.dev/icons?i=bash,ubuntu,github,py,sql,sklearn,anaconda,autocad,css,js,latex,matlab,pytorch,tensorflow,vim,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,ubuntu,github,py,sklearn,anaconda,autocad,css,js,latex,matlab,pytorch,tensorflow,vim,vscode)](https://skillicons.dev)
