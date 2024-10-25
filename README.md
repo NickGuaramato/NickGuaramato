@@ -19,3 +19,12 @@ Idiomas: Español (Nativo) e Inglés (Intermedio)
 ## 💻 Teconologías y lenguajes: 
 
 [![My Skills](https://skillicons.dev/icons?i=bash,ubuntu,github,py,sklearn,anaconda,autocad,css,js,latex,matlab,pytorch,tensorflow,vim,vscode)](https://skillicons.dev)
+
+## 🎓 Educación:
+
+▪︎ Ingeniero Electricista con mención en sistemas eléctricos de potencia - Universidad Bicentenaria De Aragua. 
+▪︎ Data Scientist - Bootcamp Tripleten.
+
+## 📈 Mis estadísticas
+
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickGuaramato&show_icons=true&theme=radical)
