@@ -23,6 +23,7 @@ Idiomas: Español (Nativo) e Inglés (Intermedio)
 ## 🎓 Educación:
 
 ▪︎ Ingeniero Electricista con mención en sistemas eléctricos de potencia - Universidad Bicentenaria De Aragua. 
+
 ▪︎ Data Scientist - Bootcamp Tripleten.
 
 ## 📈 Mis estadísticas
