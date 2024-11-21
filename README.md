@@ -8,9 +8,9 @@
 
 📫 Si te interesa contactarme
 
-[LinkedIn](https://www.linkedin.com/in/dayeici-seijas)
+🌐 [LinkedIn](https://www.linkedin.com/in/dayeici-seijas)
 
-💌 [Gmail](guaramatonick@gmail.com)
+📧 [Gmail](guaramatonick@gmail.com)
 
 ## 📌 Habilidades:
 
