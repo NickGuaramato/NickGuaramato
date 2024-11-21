@@ -7,9 +7,10 @@
 ¡Hola! Soy Nick Anderson, un Ingeniero Electricista y Data Scientist Jr. apasionado por asegurar la calidad y el desarrollo óptimo de modelos de aprendizaje automático basado en la correcta exploración y análisis de los datos. Con una base en ingeniería eléctrica y formación en ciencia de datos, actualmente me dedico a la explotación de datos para el beneficio, crecimiento y la innovación tecnológica, así como a analizar y optimizar bases de datos y descubrir patrones ocultos que me permiten entender la historia que estos cuentan.
 
 📫 Si te interesa contactarme
-https://www.linkedin.com/in/nick-a-guaramato/
 
-💌 guaramatonick@gmail.com
+[LinkedIn](https://www.linkedin.com/in/dayeici-seijas)
+
+💌 [Gmail](guaramatonick@gmail.com)
 
 ## 📌 Habilidades:
 
