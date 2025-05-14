@@ -8,7 +8,7 @@
 
 📫 Si te interesa contactarme
 
-🌐 [LinkedIn](https://www.linkedin.com/in/dayeici-seijas)
+🌐 [LinkedIn](https://www.linkedin.com/in/nick-a-guaramato/)
 
 📧 [Gmail](guaramatonick@gmail.com)
 
